@@ -1,4 +1,4 @@
-import "./HeroImgstyles.css";
+// import "./HeroImgstyles.css";
 import React from 'react';
 import IntroImg from "../assets/1.gif";
 import { Link } from "react-router-dom";
